@@ -36,7 +36,7 @@ Configure Email & Twilio API in real_time_ids.py.
 👨‍💻 Author
 👩‍💻 Sneha Rajurikar – Cybersecurity & Ethical Hacking 🔐🤖
 📧 Email: rajurikarsneha@gmail.com
-📌 LinkedIn: linkedin.com/in/sneha-rajurikar
+📌 LinkedIn: linkedin.com/in/sneha-rajurikar/
 
 📜 License
 Open-source under MIT License.
