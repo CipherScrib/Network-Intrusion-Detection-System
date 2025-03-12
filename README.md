@@ -34,7 +34,7 @@ Configure Email & Twilio API in real_time_ids.py.
 🔹 IP Blocking 🔹 Database Logging 🔹 Live Dashboard
 
 👨‍💻 Author
-👩‍💻 Sneha Rajurikar – Cybersecurity & AI Enthusiast 🔐🤖
+👩‍💻 Sneha Rajurikar – Cybersecurity & Ethical Hacking 🔐🤖
 📧 Email: rajurikarsneha@gmail.com
 📌 LinkedIn: linkedin.com/in/sneha-rajurikar
 
